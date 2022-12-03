@@ -3,10 +3,11 @@ I'm Amit Prakhar Pandey!
 ---
 *currently: CSE student at Indian institute of information technology Dharwad,Karnataka*
 ---
-**👩‍💻 I'm Currently working on...**
-
-**software Engineeering
-**self Development
+👩‍💻 I'm Currently working on...
+---
+-software engineering  
+---
+-self development
 ---
 ## 🚀 About Me
 *I'm currently persuing graduation in computer science from IIIT Dharwad,Karnataka, I'm a full stack  developer and exploring new skills in software engineering, I love to read, enjoy music and explore nature outdoors.*
