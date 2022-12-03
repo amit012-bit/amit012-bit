@@ -1,5 +1,18 @@
-## Hi, I'm Amit Prakhar Pandey! 👋
--currently CSE student at Indian institute of information technology Dharwad,Karnataka
+### Hey👋
+I'm Amit Prakhar Pandey!
+
+*currently: CSE student at Indian institute of information technology Dharwad,Karnataka
+
+##👩‍💻 I'm currently working on...
+*software Engineeering
+
+## 🚀 About Me
+I'm currently persuing graduation in IIIT Dharwad,Karnataka, I'm a full stack  developer and exploring new skills in software engineering, I love to read, enjoy music and explore nature outdoors.
+
+## 🔗📫 How to reach me: ...
+[![linkedin](https://www.linkedin.com/in/amit-prakhar-pandey-b537851b0/)
+[![twitter](https://twitter.com/amit_prakhar?t=Q0zAbEj26VYWmRtTcPR-Yw&s=09)
+
 <!--
 **amit012-bit/amit012-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
