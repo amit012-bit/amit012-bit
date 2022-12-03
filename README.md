@@ -10,7 +10,7 @@ I'm Amit Prakhar Pandey!
 -self development
 ---
 ## 🚀 About Me
-*I'm currently persuing graduation in computer science from IIIT Dharwad,Karnataka, I'm a full stack  developer and exploring new skills in software engineering, I love to read, enjoy music and explore nature outdoors.*
+*I'm currently persuing graduation in computer science from IIIT Dharwad,Karnataka, I'm a full stack  developer and exploring new skills in software engineering, I like to experiment and learning new technologies,i love to read, enjoy music and explore nature outdoors.*
 ---
 ## 🔗📫 How to reach me: ...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-prakhar-pandey-b537851b0/)
