@@ -3,7 +3,7 @@ I'm Amit Prakhar Pandey!
 ---
 *currently: CSE student at Indian institute of information technology Dharwad,Karnataka
 ---
-##👩‍💻 I'm currently working on...
+##💻 I'm Currently working on...
 
 *software Engineeering
 ---
