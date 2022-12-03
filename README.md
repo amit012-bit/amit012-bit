@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi, I'm Amit Prakhar Pandey! 👋
+-currently CSE student at Indian institute of information technology Dharwad,Karnataka
 <!--
 **amit012-bit/amit012-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
