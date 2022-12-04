@@ -1,3 +1,5 @@
+![avatar-width(1)](https://user-images.githubusercontent.com/79746265/205503130-26f018f7-f020-452d-8ec2-062d732a51ae.jpg)
+
 ## Hey👋
 I'm Amit Prakhar Pandey!
 ---
